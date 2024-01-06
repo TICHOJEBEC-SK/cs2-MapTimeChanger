@@ -13,6 +13,7 @@
 #### ABOUT THE PLUGIN
 
 A simple workshop map changer with a 45-minute timer. An ideal plugin for Surf, KZ, Jump servers.
+I couldn't find a functional workshop map changer anywhere, so I was forced to create one for my own needs. This is my first plugin, and I will definitely be planning updates. If you find any bugs, please report them to me privately via Discord message.
 
 ## 💡 Contact
 **If you are interested, contact me on discord.**
